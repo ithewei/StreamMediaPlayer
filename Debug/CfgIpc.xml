@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="ANSI" standalone="yes" ?>
+<Config>
+    <IPC ip="192.168.12.154" port="554" url="rtsp://192.168.12.154:554/PSIA/Streaming/channels/101" left="192.168.12.151" right="192.168.12.152" top="" bottom="" describe="°ì¹«ÊÒ154ÉãÏñÍ·" />
+    <IPC ip="192.168.30.11" port="8557" url="rtsp://192.168.30.11:8557/PSIA/Streaming/channels/2?videoCodecType=H.264" left="" right="192.168.30.12" top="" bottom="192.168.30.12" describe="4ºÅÂ¥×ó·½ÉãÏñÍ·" />
+    <IPC ip="192.168.30.12" port="8557" url="rtsp://192.168.30.12:8557/PSIA/Streaming/channels/2?videoCodecType=H.264" left="192.168.30.11" right="" top="" bottom="192.168.30.11" describe="4ºÅÂ¥ÓÒ·½ÉãÏñÍ·" />
+    <IPC ip="192.168.30.15" port="8557" url="rtsp://192.168.30.15:8557/PSIA/Streaming/channels/2?videoCodecType=H.264" left="" right="192.168.30.16" top="" bottom="192.168.30.16" describe="6ºÅÂ¥×ó·½ÉãÏñÍ·" />
+    <IPC ip="192.168.30.16" port="8557" url="rtsp://192.168.30.16:8557/PSIA/Streaming/channels/2?videoCodecType=H.264" left="192.168.30.15" right="" top="" bottom="192.168.30.15" describe="6ºÅÂ¥ÓÒ·½ÉãÏñÍ·" />
+    <IPC ip="172.16.192.100" port="554" url="rtsp://172.16.192.100:554/realtime?chnid=0;vid=1;aid=0;agent=cgi" left="" right="" top="" bottom="" describe="" />
+    <IPC ip="172.16.192.234" port="554" url="rtsp://172.16.192.234:554/realtime?chnid=0;vid=1;aid=0;agent=cgi" left="" right="" top="" bottom="" describe="" />
+</Config>
